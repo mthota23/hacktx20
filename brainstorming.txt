@@ -1,2 +1,17 @@
 Ideas for Hackathon: 
 
+michael's notes
+  i'm down for a web app idea
+  or even a phone app as well
+  i'm not too familiar with game systems/rendering
+  
+  I think one of the most common idea types is a web app/phone app used to connect people / share information in a certain field.
+  
+Areas we could capitalize on:
+  COVID-19
+  University life
+  Work/study from home (productivity related? communications / connections related?)
+  Data analytics from an API
+  
+  
+Additionally, we could also work on an embedded systems project?
